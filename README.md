@@ -23,8 +23,7 @@
 
 2년간 구매 이력이 있는 "지속고객"들 중에서 솔루션 대상을 정의합니다.
 
-<img src = "https://user-images.githubusercontent.com/96767467/175244717-bf7f050c-a63d-4439-9f4b-3b0f06d48c6f.png" width = "200", height = "320">
-<img src = "https://user-images.githubusercontent.com/96767467/175245222-fb261ddb-088a-4ac0-bfcd-631616ff25c8.png" width = "200", height = "320">
+<img src = "https://user-images.githubusercontent.com/96767467/175244717-bf7f050c-a63d-4439-9f4b-3b0f06d48c6f.png" width = "200" height = "320"><img src = "https://user-images.githubusercontent.com/96767467/175245222-fb261ddb-088a-4ac0-bfcd-631616ff25c8.png" width = "200" height = "320">
 
 
 - 유통회사의 구매데이터를 분석하여 매출감소에 크게 영향을 줄 유의고객 정의
