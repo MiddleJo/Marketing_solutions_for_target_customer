@@ -10,12 +10,10 @@
 
 ## 주제 선정 배경
 
-![image](https://user-images.githubusercontent.com/96767467/175243201-38864733-2e23-47eb-b69a-e87f39194fe1.png)  
+<img src = "https://user-images.githubusercontent.com/96767467/175243201-38864733-2e23-47eb-b69a-e87f39194fe1.png" width = "450" height = "300">
+<img src = "https://user-images.githubusercontent.com/96767467/175243564-9310d463-af06-4ea5-8289-ba92f6fdf674.png" width = "450" height = "300">
 
 최근 유통회사들은 경쟁에서 도태되지 않기 위해 고객 맞춤형 서비스의 필요성이 대두되고 있습니다.
-
-![image](https://user-images.githubusercontent.com/96767467/175243564-9310d463-af06-4ea5-8289-ba92f6fdf674.png)  
-
 특히, L사는 4분기 매출이 다른 분기에 더 취약한 부분이 있습니다.
 
 
