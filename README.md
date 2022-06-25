@@ -27,8 +27,6 @@
 <img src = "https://user-images.githubusercontent.com/96767467/175243201-38864733-2e23-47eb-b69a-e87f39194fe1.png" width = "48%" height = "300">
 <img src = "https://user-images.githubusercontent.com/96767467/175243564-9310d463-af06-4ea5-8289-ba92f6fdf674.png" width = "48%" height = "300">
 </p>
-</br>
-
 <p> 
 최근 유통회사들은 경쟁에서 도태되지 않기 위해 고객 맞춤형 서비스의 필요성이 대두되고 있습니다.  
 특히, L사는 4분기 매출이 다른 분기에 더 취약한 부분이 있었습니다.  
@@ -41,7 +39,6 @@
 <img src = "https://user-images.githubusercontent.com/96767467/175244717-bf7f050c-a63d-4439-9f4b-3b0f06d48c6f.png" width = "48%" height = "300">
 <img src = "https://user-images.githubusercontent.com/96767467/175245222-fb261ddb-088a-4ac0-bfcd-631616ff25c8.png" width = "48%" height = "300">
 </p>
-</br>
 <p>
 2년간 구매 이력이 있는 지속고객들 중에서 솔루션 대상을 정의합니다.  
 전년도 대비 4분기 매출이 감소한 약 2만명의 고객을 유의고객이라고 정의합니다.  
@@ -65,8 +62,6 @@
 <img src = "https://user-images.githubusercontent.com/96767467/175251614-564230f4-f2c4-4a24-a3c0-f4984e43cc26.png" width = "48%" height = "300">
 <img src = "https://user-images.githubusercontent.com/96767467/175251678-1b1fa22d-4beb-4025-9a4e-37f3b83ba8e9.png" width = "48%" height = "300">
 </p>
-</br>
-   
 <p>
 제휴사별 카테고리를 통합 카테고리로 재분류하고, 변수를 개발합니다.  
 변수는 다중공선성 문제가 없도록 상관도를 고려하여 재선정하고, 오른쪽 사진과 같이 구성되었습니다.  
@@ -79,8 +74,6 @@
 <img src = "https://user-images.githubusercontent.com/96767467/175253738-61d12605-e7f5-491e-a692-d41f083f91cf.png" width = "48%" height = "300">
 <img src = "https://user-images.githubusercontent.com/96767467/175253773-0c1557e9-b174-4f74-b0a7-a2c51eed4a1e.png" width = "48%" height = "300">
 </p>
-</br>
-   
 <p>
 유의 고객을 예측하는 분류 모델을 선정하기 위해 평가지표들을 확인합니다.  
 2년 중 7분기분을 train 데이터와 validation 데이터로 나누어 모델을 구성하였고, 8분기를 test 데이터로 활용하였습니다.  
@@ -93,7 +86,7 @@
 ## 3. 군집화 및 인사이트 도출
 
 ### 3-1 군집 개수 선정
-<img src = "https://user-images.githubusercontent.com/96767467/175255644-5c000aba-0193-40a1-a7b1-246cebc00fb3.png" align = 'center' width = "95%">
+<img src = "https://user-images.githubusercontent.com/96767467/175255644-5c000aba-0193-40a1-a7b1-246cebc00fb3.png" align = 'center' width = "95%" height = "600">
 </br>
 
 <p>
@@ -104,37 +97,44 @@
 
 ### 3-2 군집별 솔루션
 
-<p>
+<p align = 'center'>
 <img src = "https://user-images.githubusercontent.com/96767467/175773504-a6bb28bc-4e30-457b-b48a-34f9fe4e4501.png" align = 'left' width = "60%">
-"잠재적 충성 고객층"</br>  
-- 단계별 마케팅</br>
-- 평소 선호 제품군 추천</br> 
-- 소속감을 부여하는 서비스</br>
+<p align = 'right'>
+    "잠재적 충성 고객층"</br>  
+    - 단계별 마케팅</br>
+    - 평소 선호 제품군 추천</br> 
+    - 소속감을 부여하는 서비스</br>
+</p>
 </p>
 </br>
-<p>
+
+<p align = 'center'>
 <img src = "https://user-images.githubusercontent.com/96767467/175773510-31826c42-7a54-4e97-8df7-ccff5e17c733.png" align = 'left' width = 60%>
+<p align = 'right'>
 "이탈 예상 고객층"</br>  
 - 이벤트 등의 추가 서비스</br>
 - 자주 구매하는 상품 위주</br>
 - 온라인 채널 홍보</br>
 </p>
+</p>
 </br>
-<p>
+
+<p align = 'center'>
 <img src = "https://user-images.githubusercontent.com/96767467/175773514-33ca090d-b050-4e02-9162-9cf0b50d8734.png" align = 'left' width = 60%>
+<p align = 'right'>
 "구매력 높은 고객층"</br>  
 - 구매 금액에 따른 혜택</br>  
 - 고품질의 고가 상품군</br>
 - 계절 상품 개발</br>
+</p>
 </p>
 </br>
 
 ### 3-3 개인맞춤형 추천시스템
 
 <p>
-<img src = "https://user-images.githubusercontent.com/96767467/175774946-af6d01e7-b3be-4563-922d-5b5a3b58ae0b.png" align = 'center' width = 95%>
+<img src = "https://user-images.githubusercontent.com/96767467/175774946-af6d01e7-b3be-4563-922d-5b5a3b58ae0b.png" align = 'center' width = 95% height = "600">
 </p>
-
 <p>
 최근에는 큰 틀에서의 추천 시스템은 효과를 별로 보지 못합니다.  
 따라서 군집솔루션과 고객들의 개인 선호도를 결합하여 Base 추천 시스템을 구성할 필요가 있습니다.  
@@ -145,7 +145,6 @@
 <img src = "https://user-images.githubusercontent.com/96767467/175775591-d8929e02-32c5-41cc-bd8e-f13df1ab57c6.png" width = "48%" height = "300">
 <img src = "https://user-images.githubusercontent.com/96767467/175775652-584d0a9e-a149-4f92-a215-1f769211a9e0.png" width = "48%" height = "300">
 </p>
-
 <p>
 Surprise api를 통해 구성하였으며, Baseline은 SVD알고리즘과 Knn 알고리즘 중 rmse가 낮은 것이 선택되어 적용되도록 하였습니다.  
 전년 동월의 상품군별 인기 상품과 개인 추천 리스트와 곂치는 것이 있다면, 가중치를 주어 상단으로 올라오게 됩니다.  
