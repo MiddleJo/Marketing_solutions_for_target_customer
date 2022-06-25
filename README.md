@@ -9,14 +9,12 @@
 - 자세한 내용은 소스코드 혹은 ppt를 참고해 주시기 바랍니다.  
 
 </br>
-</br>
-
 ### 목차
 
 [1. 기획 및 타겟 정의](#1.-기획)</br>
 [2. 모델링](#2.-모델링)</br>
 [3. 군집화 및 인사이트 도출](3.-군집화-및-인사이트-도출)</br>
-
+</br>
 
 ---
 
@@ -98,35 +96,35 @@
 ### 3-2 군집별 솔루션
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/175773504-a6bb28bc-4e30-457b-b48a-34f9fe4e4501.png" width = "70%" height = '450'>
-<p width = '28%' height = '450'>
-    "잠재적 충성 고객층"</br>  
-    - 단계별 마케팅</br>
-    - 평소 선호 제품군 추천</br> 
-    - 소속감을 부여하는 서비스</br>
-</p>
-</p>
-</br>
-
-<p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/175773510-31826c42-7a54-4e97-8df7-ccff5e17c733.png" width = '70%' height = '450'>
-<p width = '28%' height = '450'>
-"이탈 예상 고객층"</br>  
-- 이벤트 등의 추가 서비스</br>
-- 자주 구매하는 상품 위주</br>
-- 온라인 채널 홍보</br>
-</p>
+    <img src = "https://user-images.githubusercontent.com/96767467/175773504-a6bb28bc-4e30-457b-b48a-34f9fe4e4501.png" width = "70%" height = '450'>
+    <p width = '28%' height = '450'>
+        "잠재적 충성 고객층"</br>  
+        - 단계별 마케팅</br>
+        - 평소 선호 제품군 추천</br> 
+        - 소속감을 부여하는 서비스</br>
+    </p>
 </p>
 </br>
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/175773514-33ca090d-b050-4e02-9162-9cf0b50d8734.png" width = '68%' height = '450'>
-<p width = '28%' height = '450'>
-"구매력 높은 고객층"</br>  
-- 구매 금액에 따른 혜택</br>  
-- 고품질의 고가 상품군</br>
-- 계절 상품 개발</br>
+    <img src = "https://user-images.githubusercontent.com/96767467/175773510-31826c42-7a54-4e97-8df7-ccff5e17c733.png" width = '70%' height = '450'>
+    <p width = '28%' height = '450'>
+    "이탈 예상 고객층"</br>  
+    - 이벤트 등의 추가 서비스</br>
+    - 자주 구매하는 상품 위주</br>
+    - 온라인 채널 홍보</br>
+    </p>
 </p>
+</br>
+
+<p align = 'center'>
+    <img src = "https://user-images.githubusercontent.com/96767467/175773514-33ca090d-b050-4e02-9162-9cf0b50d8734.png" width = '68%' height = '450'>
+    <p width = '28%' height = '450'>
+    "구매력 높은 고객층"</br>  
+    - 구매 금액에 따른 혜택</br>  
+    - 고품질의 고가 상품군</br>
+    - 계절 상품 개발</br>
+    </p>
 </p>
 </br>
 
