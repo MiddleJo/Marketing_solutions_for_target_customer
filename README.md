@@ -14,7 +14,7 @@
 
 ### 주제 선정 배경
 
-<img src = "https://user-images.githubusercontent.com/96767467/175243201-38864733-2e23-47eb-b69a-e87f39194fe1.png" align = 'left' width = "45%" height = "300"><img src = "https://user-images.githubusercontent.com/96767467/175243564-9310d463-af06-4ea5-8289-ba92f6fdf674.png" align = 'right' width = "450" height = "300">
+<img src = "https://user-images.githubusercontent.com/96767467/175243201-38864733-2e23-47eb-b69a-e87f39194fe1.png" align = 'left' width = "49%" height = "300"><img src = "https://user-images.githubusercontent.com/96767467/175243564-9310d463-af06-4ea5-8289-ba92f6fdf674.png" align = 'right' width = "49%" height = "300">
    
    
 최근 유통회사들은 경쟁에서 도태되지 않기 위해 고객 맞춤형 서비스의 필요성이 대두되고 있습니다.
@@ -23,12 +23,13 @@
    
 ### 유의고객 정의
 
-<img src = "https://user-images.githubusercontent.com/96767467/175244717-bf7f050c-a63d-4439-9f4b-3b0f06d48c6f.png" align = 'left' width = "45%" height = "300"><img src = "https://user-images.githubusercontent.com/96767467/175245222-fb261ddb-088a-4ac0-bfcd-631616ff25c8.png" align = 'right' width = "45%" height = "300">
+<img src = "https://user-images.githubusercontent.com/96767467/175244717-bf7f050c-a63d-4439-9f4b-3b0f06d48c6f.png" align = 'left' width = "49%" height = "300"><img src = "https://user-images.githubusercontent.com/96767467/175245222-fb261ddb-088a-4ac0-bfcd-631616ff25c8.png" align = 'right' width = "49%" height = "300">
 
-   
+<div>
 2년간 구매 이력이 있는 지속고객들 중에서 솔루션 대상을 정의합니다.  
 전년도 대비 4분기 매출이 감소한 고객을 유의고객이라고 정의합니다.  
 이 고객들은 다른 분기에서도 많은 구매 감소를 보이고 있었고, 이 감소금액은 회사에 타격을 줄 만큼 큰 금액입니다.
+</div>
 
 
     
