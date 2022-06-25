@@ -1,6 +1,6 @@
 # 유통회사 매출감소고객 개인 맞춤형 솔루션
 
-![image](https://user-images.githubusercontent.com/96767467/168734801-7cb69337-6700-450d-99d1-32fe266854e9.png)
+<img src = "https://user-images.githubusercontent.com/96767467/168734801-7cb69337-6700-450d-99d1-32fe266854e9.png" align = 'center' width = "95%" >
 
 ### 들어가기 전에
 - 발표영상: https://www.youtube.com/watch?v=WBpVgxsxNrA
@@ -14,7 +14,7 @@
 
 ### 주제 선정 배경
 
-<img src = "https://user-images.githubusercontent.com/96767467/175243201-38864733-2e23-47eb-b69a-e87f39194fe1.png" width = "450" height = "300">   <img src = "https://user-images.githubusercontent.com/96767467/175243564-9310d463-af06-4ea5-8289-ba92f6fdf674.png" width = "450" height = "300">
+<img src = "https://user-images.githubusercontent.com/96767467/175243201-38864733-2e23-47eb-b69a-e87f39194fe1.png" align = 'left' width = "45%" height = "300"><img src = "https://user-images.githubusercontent.com/96767467/175243564-9310d463-af06-4ea5-8289-ba92f6fdf674.png" align = 'right' width = "450" height = "300">
    
    
 최근 유통회사들은 경쟁에서 도태되지 않기 위해 고객 맞춤형 서비스의 필요성이 대두되고 있습니다.
@@ -23,7 +23,7 @@
    
 ### 유의고객 정의
 
-<img src = "https://user-images.githubusercontent.com/96767467/175244717-bf7f050c-a63d-4439-9f4b-3b0f06d48c6f.png" align = 'left' width = "45%" height = "300">   <img src = "https://user-images.githubusercontent.com/96767467/175245222-fb261ddb-088a-4ac0-bfcd-631616ff25c8.png" align = 'right', width = "45%" height = "300">
+<img src = "https://user-images.githubusercontent.com/96767467/175244717-bf7f050c-a63d-4439-9f4b-3b0f06d48c6f.png" align = 'left' width = "45%" height = "300"><img src = "https://user-images.githubusercontent.com/96767467/175245222-fb261ddb-088a-4ac0-bfcd-631616ff25c8.png" align = 'right' width = "45%" height = "300">
 
    
 2년간 구매 이력이 있는 지속고객들 중에서 솔루션 대상을 정의합니다.  
@@ -36,7 +36,7 @@
 
 ### 시스템 요약도
 
-<img src = "https://user-images.githubusercontent.com/96767467/175251069-166e03e6-91cf-4766-82ee-c5c8e105e20d.png" width = "900" height = "600">
+<img src = "https://user-images.githubusercontent.com/96767467/175251069-166e03e6-91cf-4766-82ee-c5c8e105e20d.png" align = 'center' width = "90%" height = "600">
 
 ### 변수 개발
 
