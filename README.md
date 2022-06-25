@@ -13,7 +13,7 @@
 ## 1. 기획
 
 ### 주제 선정 배경
-<p>
+<p align = 'center'>
 <img src = "https://user-images.githubusercontent.com/96767467/175243201-38864733-2e23-47eb-b69a-e87f39194fe1.png" align = 'left' width = "450" height = "300">   <img src = "https://user-images.githubusercontent.com/96767467/175243564-9310d463-af06-4ea5-8289-ba92f6fdf674.png" align = 'right' width = "450" height = "300">
 </p>
    
