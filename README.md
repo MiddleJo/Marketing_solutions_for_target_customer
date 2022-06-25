@@ -84,6 +84,7 @@
 ## 3. 군집화 및 인사이트 도출
 
 ### 3-1 군집 개수 선정
+
 <img src = "https://user-images.githubusercontent.com/96767467/175255644-5c000aba-0193-40a1-a7b1-246cebc00fb3.png" align = 'center' width = "95%" height = "600">
 </br>
 
@@ -95,7 +96,7 @@
 
 ### 3-2 군집별 솔루션
 
-<p align = 'center'>
+<p align = 'left'>
 <img src = "https://user-images.githubusercontent.com/96767467/175773504-a6bb28bc-4e30-457b-b48a-34f9fe4e4501.png" width = "70%" height = '450'>
 </p>
 
