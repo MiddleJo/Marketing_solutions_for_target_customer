@@ -13,9 +13,9 @@
 
 ### 목차
 
-[1. 기획 및 타겟 정의](#1.-기획)
-[2. 모델링](#2.-모델링)
-[3. 군집화 및 인사이트 도출](3.-군집화-및-인사이트-도출)
+[1. 기획 및 타겟 정의](#1.-기획)</br>
+[2. 모델링](#2.-모델링)</br>
+[3. 군집화 및 인사이트 도출](3.-군집화-및-인사이트-도출)</br>
 
 
 ---
@@ -34,7 +34,6 @@
 특히, L사는 4분기 매출이 다른 분기에 더 취약한 부분이 있었습니다.  
 <p>
 </br>
-</br>
 
 ### 1-2 유의고객 정의
 
@@ -43,13 +42,11 @@
 <img src = "https://user-images.githubusercontent.com/96767467/175245222-fb261ddb-088a-4ac0-bfcd-631616ff25c8.png" width = "48%" height = "300">
 </p>
 </br>
-</br>
 <p>
 2년간 구매 이력이 있는 지속고객들 중에서 솔루션 대상을 정의합니다.  
 전년도 대비 4분기 매출이 감소한 약 2만명의 고객을 유의고객이라고 정의합니다.  
 이 고객들은 다른 분기에서도 많은 구매 감소를 보이고 있었고, 이 감소금액은 회사에 타격을 줄 만큼 큰 금액입니다.
 </p>
-</br>
 </br>
 </br>
     
@@ -61,7 +58,6 @@
 <img src = "https://user-images.githubusercontent.com/96767467/175251069-166e03e6-91cf-4766-82ee-c5c8e105e20d.png" align = 'center' width = "95%" height = "600">
 </p>
 </br>
-</br>
 
 ### 2-2 변수 개발
 
@@ -70,13 +66,11 @@
 <img src = "https://user-images.githubusercontent.com/96767467/175251678-1b1fa22d-4beb-4025-9a4e-37f3b83ba8e9.png" width = "48%" height = "300">
 </p>
 </br>
-</br>
    
 <p>
 제휴사별 카테고리를 통합 카테고리로 재분류하고, 변수를 개발합니다.  
 변수는 다중공선성 문제가 없도록 상관도를 고려하여 재선정하고, 오른쪽 사진과 같이 구성되었습니다.  
 </p>
-</br>
 </br>
    
 ### 2-3 모델 선정
@@ -95,12 +89,11 @@
 
 </br>
 </br>
-</br>
    
 ## 3. 군집화 및 인사이트 도출
 
 ### 3-1 군집 개수 선정
-<img src = "https://user-images.githubusercontent.com/96767467/175255644-5c000aba-0193-40a1-a7b1-246cebc00fb3.png" align = 'center' width = 95%>
+<img src = "https://user-images.githubusercontent.com/96767467/175255644-5c000aba-0193-40a1-a7b1-246cebc00fb3.png" align = 'center' width = "95%">
 </br>
 
 <p>
@@ -108,32 +101,32 @@
 군집화 알고리즘은 K-평균 알고리즘을 사용하였으며, 실루엣 계수를 확인하고 군집 수는 3개로 결정합니다.  
 </p>
 </br>
-</br>
 
 ### 3-2 군집별 솔루션
 
 <p>
-<img src = "https://user-images.githubusercontent.com/96767467/175773504-a6bb28bc-4e30-457b-b48a-34f9fe4e4501.png" align = 'left' width = 60%>
+<img src = "https://user-images.githubusercontent.com/96767467/175773504-a6bb28bc-4e30-457b-b48a-34f9fe4e4501.png" align = 'left' width = "60%">
 "잠재적 충성 고객층"</br>  
-- 단계별 마케팅  
-- 평소 선호 제품군 추천  
-- 소속감을 부여하는 서비스  
+- 단계별 마케팅</br>
+- 평소 선호 제품군 추천</br> 
+- 소속감을 부여하는 서비스</br>
 </p>
+</br>
 <p>
 <img src = "https://user-images.githubusercontent.com/96767467/175773510-31826c42-7a54-4e97-8df7-ccff5e17c733.png" align = 'left' width = 60%>
 "이탈 예상 고객층"</br>  
-- 이벤트 등의 추가 서비스  
-- 자주 구매하는 상품 위주  
-- 온라인 채널 홍보  
+- 이벤트 등의 추가 서비스</br>
+- 자주 구매하는 상품 위주</br>
+- 온라인 채널 홍보</br>
 </p>
+</br>
 <p>
 <img src = "https://user-images.githubusercontent.com/96767467/175773514-33ca090d-b050-4e02-9162-9cf0b50d8734.png" align = 'left' width = 60%>
 "구매력 높은 고객층"</br>  
-- 구매 금액에 따른 혜택  
-- 고품질의 고가 상품군  
-- 계절 상품 개발  
+- 구매 금액에 따른 혜택</br>  
+- 고품질의 고가 상품군</br>
+- 계절 상품 개발</br>
 </p>
-</br>
 </br>
 
 ### 3-3 개인맞춤형 추천시스템
@@ -161,13 +154,12 @@ Surprise api를 통해 구성하였으며, Baseline은 SVD알고리즘과 Knn �
 
 </br>
 </br>
-</br>
 
 ## 팀원 소개
 
 <img align="left" width="180" height="180"  src="https://user-images.githubusercontent.com/96767467/175776031-f03f973a-ad72-490f-af43-80ebac94bde0.png"/>
 
-- [팀장] 어정호 <br><br><br><br><br>
+  [팀장] 어정호 <br><br><br><br><br>
 
 MAIL : fishup97@gmail.com <br>
 
@@ -177,7 +169,7 @@ Github : https://github.com/fish-ho <br>
 
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/96767467/175776083-7b96dcca-0357-4c22-a39e-366cfc84dd24.png"/>
 
-- [수석개발자]조남현 <br><br><br><br><br>
+  [수석개발자]조남현 <br><br><br><br><br>
 
 MAIL : chonh0531@gmail.com <br>
 
@@ -187,7 +179,7 @@ Github : https://github.com/MiddleJo <br>
 
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/96767467/175776239-e4f7823a-4493-4673-8146-42b1845c3000.png" />
 
-- [수석디자인] 최지원 <br><br><br><br><br>
+  [수석디자인] 최지원 <br><br><br><br><br>
 
 MAIL : plasticmelody@gmail.com <br>
 
@@ -197,7 +189,7 @@ Github : https://github.com/JadeWednesda <br>
 
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/96767467/175776334-d2e0b212-9fea-4164-8ddc-944608e7b3f5.png"/>
 
-- [데이터마이너] 김민성 <br><br><br><br><br>
+  [데이터마이너] 김민성 <br><br><br><br><br>
 
 MAIL : nycticebus0915@gmail.com <br>
 
@@ -205,9 +197,9 @@ Github : https://github.com/nycticebus0915 <br>
 
 ---
 
-<img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/102858692/161481322-ec6afce7-e8b6-4355-9680-0526d9df6b21.png" />
+<img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/96767467/175776612-5502a307-31b3-4ded-a09e-5a11b2ad3c67.png" />
 
-- 조경윤 <br><br><br><br><br>
+  조경윤 <br><br><br><br><br>
 
 MAIL : kkyxxn@gmail.com <br>
 
