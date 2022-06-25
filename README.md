@@ -95,7 +95,7 @@
 
 ### 3-2 군집별 솔루션
 
-<p align = 'center'>
+<p align = 'left'>
     <img src = "https://user-images.githubusercontent.com/96767467/175773504-a6bb28bc-4e30-457b-b48a-34f9fe4e4501.png" width = "70%" height = '450'>
     <p width = '28%' height = '450'>
         "잠재적 충성 고객층"</br>  
@@ -106,7 +106,7 @@
 </p>
 </br>
 
-<p align = 'center'>
+<p align = 'left'>
     <img src = "https://user-images.githubusercontent.com/96767467/175773510-31826c42-7a54-4e97-8df7-ccff5e17c733.png" width = '70%' height = '450'>
     <p width = '28%' height = '450'>
     "이탈 예상 고객층"</br>  
@@ -117,7 +117,7 @@
 </p>
 </br>
 
-<p align = 'center'>
+<p align = 'left'>
     <img src = "https://user-images.githubusercontent.com/96767467/175773514-33ca090d-b050-4e02-9162-9cf0b50d8734.png" width = '68%' height = '450'>
     <p width = '28%' height = '450'>
     "구매력 높은 고객층"</br>  
