@@ -98,7 +98,7 @@
 ### 3-2 군집별 솔루션
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/175773504-a6bb28bc-4e30-457b-b48a-34f9fe4e4501.png" align = 'left' width = "60%">
+<img src = "https://user-images.githubusercontent.com/96767467/175773504-a6bb28bc-4e30-457b-b48a-34f9fe4e4501.png" width = "70%">
 <p align = 'right'>
     "잠재적 충성 고객층"</br>  
     - 단계별 마케팅</br>
@@ -109,7 +109,7 @@
 </br>
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/175773510-31826c42-7a54-4e97-8df7-ccff5e17c733.png" align = 'left' width = 60%>
+<img src = "https://user-images.githubusercontent.com/96767467/175773510-31826c42-7a54-4e97-8df7-ccff5e17c733.png" width = 70%>
 <p align = 'right'>
 "이탈 예상 고객층"</br>  
 - 이벤트 등의 추가 서비스</br>
@@ -120,8 +120,8 @@
 </br>
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/175773514-33ca090d-b050-4e02-9162-9cf0b50d8734.png" align = 'left' width = 60%>
-<p align = 'right'>
+<img src = "https://user-images.githubusercontent.com/96767467/175773514-33ca090d-b050-4e02-9162-9cf0b50d8734.png" width = 70%>
+<p>
 "구매력 높은 고객층"</br>  
 - 구매 금액에 따른 혜택</br>  
 - 고품질의 고가 상품군</br>
