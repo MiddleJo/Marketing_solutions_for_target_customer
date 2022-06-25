@@ -7,8 +7,8 @@
 - 유통회사 L사의 구매 데이터를 분석하여 유의미한 솔루션을 도출하는 프로젝트입니다.  
 - 원본 데이터는 보얀 규약상 보여드릴 수 없고, 이에 따라 데이터 가공 과정 역시 구두설명만 드리게 되었습니다. 이 점 양해 부탁드립니다.  
 - 자세한 내용은 소스코드 혹은 ppt를 참고해 주시기 바랍니다.  
-
 </br>
+
 ### 목차
 
 [1. 기획 및 타겟 정의](#1.-기획)</br>
@@ -166,7 +166,7 @@ Github : https://github.com/fish-ho <br>
 
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/96767467/175776083-7b96dcca-0357-4c22-a39e-366cfc84dd24.png"/>
 
-  [수석개발자]조남현 <br><br><br><br><br>
+  [수석개발자] 조남현 <br><br><br><br><br>
 
 MAIL : chonh0531@gmail.com <br>
 
