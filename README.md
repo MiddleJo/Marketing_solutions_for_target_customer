@@ -75,9 +75,9 @@
 <img src = "https://user-images.githubusercontent.com/96767467/175253773-0c1557e9-b174-4f74-b0a7-a2c51eed4a1e.png" width = "48%" height = "300">
 </p>
 <p>
-유의 고객을 예측하는 분류 모델을 선정하기 위해 평가지표들을 확인합니다.  
-2년 중 7분기분을 train 데이터와 validation 데이터로 나누어 모델을 구성하였고, 8분기를 test 데이터로 활용하였습니다.  
-오른쪽 사진 내용과 같이 XGBoost를 선택하였습니다.  
+유의 고객을 예측하는 분류 모델을 선정하기 위해 평가지표들을 확인합니다.</br>
+2년 중 7분기분을 train 데이터와 validation 데이터로 나누어 모델을 구성하였고, 8분기를 test 데이터로 활용하였습니다.</br>
+오른쪽 사진 내용과 같이 XGBoost를 선택하였습니다.</br>
 </p>
 
 </br>
@@ -90,16 +90,16 @@
 </br>
 
 <p>
-이제 유의고객이 될 고객을 예측하고, 해당 고객들을 군집분석하여 군집별 솔루션을 제시합니다.  
-군집화 알고리즘은 K-평균 알고리즘을 사용하였으며, 실루엣 계수를 확인하고 군집 수는 3개로 결정합니다.  
+이제 유의고객이 될 고객을 예측하고, 해당 고객들을 군집분석하여 군집별 솔루션을 제시합니다.</br>
+군집화 알고리즘은 K-평균 알고리즘을 사용하였으며, 실루엣 계수를 확인하고 군집 수는 3개로 결정합니다.</br>
 </p>
 </br>
 
 ### 3-2 군집별 솔루션
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/175773504-a6bb28bc-4e30-457b-b48a-34f9fe4e4501.png" width = "70%">
-<p align = 'right'>
+<img src = "https://user-images.githubusercontent.com/96767467/175773504-a6bb28bc-4e30-457b-b48a-34f9fe4e4501.png" width = "70%" height = '450'>
+<p width = '28%' height = '450'>
     "잠재적 충성 고객층"</br>  
     - 단계별 마케팅</br>
     - 평소 선호 제품군 추천</br> 
@@ -109,8 +109,8 @@
 </br>
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/175773510-31826c42-7a54-4e97-8df7-ccff5e17c733.png" width = 70%>
-<p align = 'right'>
+<img src = "https://user-images.githubusercontent.com/96767467/175773510-31826c42-7a54-4e97-8df7-ccff5e17c733.png" width = '70%' height = '450'>
+<p width = '28%' height = '450'>
 "이탈 예상 고객층"</br>  
 - 이벤트 등의 추가 서비스</br>
 - 자주 구매하는 상품 위주</br>
@@ -120,8 +120,8 @@
 </br>
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/175773514-33ca090d-b050-4e02-9162-9cf0b50d8734.png" width = 70%>
-<p>
+<img src = "https://user-images.githubusercontent.com/96767467/175773514-33ca090d-b050-4e02-9162-9cf0b50d8734.png" width = '68%' height = '450'>
+<p width = '28%' height = '450'>
 "구매력 높은 고객층"</br>  
 - 구매 금액에 따른 혜택</br>  
 - 고품질의 고가 상품군</br>
@@ -136,9 +136,9 @@
 <img src = "https://user-images.githubusercontent.com/96767467/175774946-af6d01e7-b3be-4563-922d-5b5a3b58ae0b.png" align = 'center' width = 95% height = "600">
 </p>
 <p>
-최근에는 큰 틀에서의 추천 시스템은 효과를 별로 보지 못합니다.  
-따라서 군집솔루션과 고객들의 개인 선호도를 결합하여 Base 추천 시스템을 구성할 필요가 있습니다.  
-여기에 계절 인기상품과 개인 선호 상품군, 가격대 등이 결합되어 
+최근에는 큰 틀에서의 추천 시스템은 효과를 별로 보지 못합니다.</br>
+따라서 군집솔루션과 고객들의 개인 선호도를 결합하여 Base 추천 시스템을 구성할 필요가 있습니다.</br>
+여기에 계절 인기상품과 개인 선호 상품군, 가격대 등이 결합되어 더 유의미한 추천이 이루어집니다.
 </p>
 
 <p align = 'center'>
@@ -146,8 +146,8 @@
 <img src = "https://user-images.githubusercontent.com/96767467/175775652-584d0a9e-a149-4f92-a215-1f769211a9e0.png" width = "48%" height = "300">
 </p>
 <p>
-Surprise api를 통해 구성하였으며, Baseline은 SVD알고리즘과 Knn 알고리즘 중 rmse가 낮은 것이 선택되어 적용되도록 하였습니다.  
-전년 동월의 상품군별 인기 상품과 개인 추천 리스트와 곂치는 것이 있다면, 가중치를 주어 상단으로 올라오게 됩니다.  
+Surprise api를 통해 구성하였으며, Baseline은 SVD알고리즘과 Knn 알고리즘 중 rmse가 낮은 것이 선택되어 적용되도록 하였습니다.</br>
+전년 동월의 상품군별 인기 상품과 개인 추천 리스트와 곂치는 것이 있다면, 가중치를 주어 상단으로 올라오게 됩니다.</br>
 이를 통해 개인 맞춤형 추천에 군집 솔루션을 자연스럽게 녹일 수 있으며, 가중치 등은 전문가와 함께 보완할 여지가 있습니다.
 </p>
 
