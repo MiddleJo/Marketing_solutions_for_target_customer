@@ -180,7 +180,7 @@ Github : https://github.com/MiddleJo <br>
 
 MAIL : plasticmelody@gmail.com <br>
 
-Github : https://github.com/JadeWednesda <br>
+Github : https://github.com/JadeWednesday <br>
 
 ---
 
