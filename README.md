@@ -1,6 +1,6 @@
 # 유통회사 매출감소고객 개인 맞춤형 솔루션
 
-<img src = "https://user-images.githubusercontent.com/96767467/197762710-edc55929-e046-4a71-a063-92043890846f.png" align = 'center' width = "95%" >
+<img src = "https://user-images.githubusercontent.com/96767467/197765304-89b4961f-0cd9-47ab-9ec3-04a031c2ee05.png" align = 'center' width = "95%" >
 
 ### 들어가기 전에
 - 발표영상: https://www.youtube.com/watch?v=WBpVgxsxNrA
