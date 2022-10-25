@@ -1,6 +1,6 @@
 # 유통회사 매출감소고객 개인 맞춤형 솔루션
 
-<img src = "https://user-images.githubusercontent.com/96767467/168734801-7cb69337-6700-450d-99d1-32fe266854e9.png" align = 'center' width = "95%" >
+<img src = "https://user-images.githubusercontent.com/96767467/197762710-edc55929-e046-4a71-a063-92043890846f.png" align = 'center' width = "95%" >
 
 ### 들어가기 전에
 - 발표영상: https://www.youtube.com/watch?v=WBpVgxsxNrA
@@ -22,8 +22,8 @@
 
 ### 1-1 주제 선정 배경
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/175243201-38864733-2e23-47eb-b69a-e87f39194fe1.png" width = "48%" height = "300">
-<img src = "https://user-images.githubusercontent.com/96767467/175243564-9310d463-af06-4ea5-8289-ba92f6fdf674.png" width = "48%" height = "300">
+<img src = "https://user-images.githubusercontent.com/96767467/197762716-16793737-9039-437e-9649-a8f2a73a5c8e.PNG" width = "48%" height = "27%">
+<img src = "https://user-images.githubusercontent.com/96767467/197762719-ca196a56-7973-4546-bd9d-577b6146546b.PNG" width = "48%" height = "27%">
 </p>
 <p> 
 최근 유통회사들은 경쟁에서 도태되지 않기 위해 고객 맞춤형 서비스의 필요성이 대두되고 있습니다.  
@@ -34,8 +34,8 @@
 ### 1-2 유의고객 정의
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/175244717-bf7f050c-a63d-4439-9f4b-3b0f06d48c6f.png" width = "48%" height = "300">
-<img src = "https://user-images.githubusercontent.com/96767467/175245222-fb261ddb-088a-4ac0-bfcd-631616ff25c8.png" width = "48%" height = "300">
+<img src = "https://user-images.githubusercontent.com/96767467/197762720-a77bcef3-8858-474b-99c1-6a315c5dc3ca.PNG" width = "48%" height = "27%">
+<img src = "https://user-images.githubusercontent.com/96767467/197762721-2290ded8-9d75-4701-a15c-cacadd49a1e1.PNG" width = "48%" height = "27%">
 </p>
 <p>
 2년간 구매 이력이 있는 지속고객들 중에서 솔루션 대상을 정의합니다.  
@@ -50,15 +50,15 @@
 ### 2-1 시스템 요약도
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/175251069-166e03e6-91cf-4766-82ee-c5c8e105e20d.png" align = 'center' width = "95%" height = "600">
+<img src = "https://user-images.githubusercontent.com/96767467/197762723-d3b056bb-65c4-4991-9166-1f8eee74ae2d.PNG" align = 'center' width = "95%" height = "53%">
 </p>
 </br>
 
 ### 2-2 변수 개발
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/175251614-564230f4-f2c4-4a24-a3c0-f4984e43cc26.png" width = "48%" height = "300">
-<img src = "https://user-images.githubusercontent.com/96767467/175251678-1b1fa22d-4beb-4025-9a4e-37f3b83ba8e9.png" width = "48%" height = "300">
+<img src = "https://user-images.githubusercontent.com/96767467/197762725-cbf658af-b1fe-404d-8c42-795ed9cb2863.PNG" width = "48%" height = "27%">
+<img src = "https://user-images.githubusercontent.com/96767467/197762728-cc0e9612-80b4-4413-ac87-00e5ef190e7f.PNG" width = "48%" height = "27%">
 </p>
 <p>
 제휴사별 카테고리를 통합 카테고리로 재분류하고, 변수를 개발합니다.  
@@ -69,8 +69,8 @@
 ### 2-3 모델 선정
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/175253738-61d12605-e7f5-491e-a692-d41f083f91cf.png" width = "48%" height = "300">
-<img src = "https://user-images.githubusercontent.com/96767467/175253773-0c1557e9-b174-4f74-b0a7-a2c51eed4a1e.png" width = "48%" height = "300">
+<img src = "https://user-images.githubusercontent.com/96767467/197762730-5b2f97d9-9243-492b-9730-586b55e8340d.PNG" width = "48%" height = "27%">
+<img src = "https://user-images.githubusercontent.com/96767467/197762733-cc750988-9572-4bd1-8372-1d7c444ddb32.PNG" width = "48%" height = "27%">
 </p>
 <p>
 유의 고객을 예측하는 분류 모델을 선정하기 위해 평가지표들을 확인합니다.</br>
@@ -85,7 +85,7 @@
 
 ### 3-1 군집 개수 선정
 
-<img src = "https://user-images.githubusercontent.com/96767467/175255644-5c000aba-0193-40a1-a7b1-246cebc00fb3.png" align = 'center' width = "95%" height = "600">
+<img src = "https://user-images.githubusercontent.com/96767467/197762734-2d9f0dc3-d97c-471f-b6c0-de7aa2571fa5.PNG" align = 'center' width = "95%" height = "53%">
 </br>
 
 <p>
@@ -97,7 +97,7 @@
 ### 3-2 군집별 솔루션
 
 <p align = 'left'>
-<img src = "https://user-images.githubusercontent.com/96767467/175773504-a6bb28bc-4e30-457b-b48a-34f9fe4e4501.png" width = "70%" height = '450'>
+<img src = "https://user-images.githubusercontent.com/96767467/197762736-4b339bd2-7a78-4e1b-b4c4-01c28bb14c9b.PNG" width = "70%" height = '39%'>
 </p>
 
 "잠재적 충성 고객층"</br>  
@@ -107,7 +107,7 @@
 </br>
 
 <p align = 'left'>
-    <img src = "https://user-images.githubusercontent.com/96767467/175773510-31826c42-7a54-4e97-8df7-ccff5e17c733.png" width = '70%' height = '450'>
+    <img src = "https://user-images.githubusercontent.com/96767467/197762739-cf2ecc0e-6d3d-40c9-a384-6ba9aacca946.PNG" width = '70%' height = '39%'>
     <center width = '28%' height = '450'>
     "이탈 예상 고객층"</br>  
     - 이벤트 등의 추가 서비스</br>
@@ -118,7 +118,7 @@
 </br>
 
 <p align = 'left'>
-    <img src = "https://user-images.githubusercontent.com/96767467/175773514-33ca090d-b050-4e02-9162-9cf0b50d8734.png" width = '68%' height = '450'>
+    <img src = "https://user-images.githubusercontent.com/96767467/197762743-daf30b73-b51c-4923-8fa8-a44d7615b026.PNG" width = '68%' height = '39%'>
     <p width = '28%' height = '450'>
     "구매력 높은 고객층"</br>  
     - 구매 금액에 따른 혜택</br>  
@@ -131,7 +131,7 @@
 ### 3-3 개인맞춤형 추천시스템
 
 <p>
-<img src = "https://user-images.githubusercontent.com/96767467/175774946-af6d01e7-b3be-4563-922d-5b5a3b58ae0b.png" align = 'center' width = 95% height = "600">
+<img src = "https://user-images.githubusercontent.com/96767467/197762745-3deec220-f169-432a-9ded-933876359a43.PNG" align = 'center' width = 95% height = "53%">
 </p>
 <p>
 최근에는 큰 틀에서의 추천 시스템은 효과를 별로 보지 못합니다.</br>
@@ -140,8 +140,8 @@
 </p>
 
 <p align = 'center'>
-<img src = "https://user-images.githubusercontent.com/96767467/175775591-d8929e02-32c5-41cc-bd8e-f13df1ab57c6.png" width = "48%" height = "300">
-<img src = "https://user-images.githubusercontent.com/96767467/175775652-584d0a9e-a149-4f92-a215-1f769211a9e0.png" width = "48%" height = "300">
+<img src = "https://user-images.githubusercontent.com/96767467/197762745-3deec220-f169-432a-9ded-933876359a43.PNG" width = "48%" height = "27%">
+<img src = "https://user-images.githubusercontent.com/96767467/197762748-6e449b02-f978-4e2f-867b-5b516faee16b.PNG" width = "48%" height = "27%">
 </p>
 <p>
 Surprise api를 통해 구성하였으며, Baseline은 SVD알고리즘과 Knn 알고리즘 중 rmse가 낮은 것이 선택되어 적용되도록 하였습니다.</br>
