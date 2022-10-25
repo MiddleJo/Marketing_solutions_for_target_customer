@@ -107,25 +107,23 @@
 </br>
 
 <p align = 'left'>
-    <img src = "https://user-images.githubusercontent.com/96767467/197762739-cf2ecc0e-6d3d-40c9-a384-6ba9aacca946.PNG" width = '70%' height = '39%'>
-    <center width = '28%' height = '450'>
-    "이탈 예상 고객층"</br>  
-    - 이벤트 등의 추가 서비스</br>
-    - 자주 구매하는 상품 위주</br>
-    - 온라인 채널 홍보</br>
-    </center>
+<img src = "https://user-images.githubusercontent.com/96767467/197762739-cf2ecc0e-6d3d-40c9-a384-6ba9aacca946.PNG" width = '70%' height = '39%'>
 </p>
+
+"이탈 예상 고객층"</br>  
+- 이벤트 등의 추가 서비스</br>
+- 자주 구매하는 상품 위주</br>
+- 온라인 채널 홍보</br>
 </br>
 
 <p align = 'left'>
-    <img src = "https://user-images.githubusercontent.com/96767467/197762743-daf30b73-b51c-4923-8fa8-a44d7615b026.PNG" width = '68%' height = '39%'>
-    <p width = '28%' height = '450'>
-    "구매력 높은 고객층"</br>  
-    - 구매 금액에 따른 혜택</br>  
-    - 고품질의 고가 상품군</br>
-    - 계절 상품 개발</br>
-    </p>
+<img src = "https://user-images.githubusercontent.com/96767467/197762743-daf30b73-b51c-4923-8fa8-a44d7615b026.PNG" width = '68%' height = '39%'>
 </p>
+
+"구매력 높은 고객층"</br>  
+- 구매 금액에 따른 혜택</br>  
+- 고품질의 고가 상품군</br>
+- 계절 상품 개발</br>
 </br>
 
 ### 3-3 개인맞춤형 추천시스템
