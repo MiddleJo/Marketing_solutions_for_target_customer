@@ -118,7 +118,7 @@
 </br>
 
 <p align = 'left'>
-<img src = "https://user-images.githubusercontent.com/96767467/197762743-daf30b73-b51c-4923-8fa8-a44d7615b026.PNG" width = '68%' height = '39%'>
+<img src = "https://user-images.githubusercontent.com/96767467/230791327-6bb75344-e739-404b-b782-4b1779bf5927.PNG" width = '68%' height = '39%'>
 </p>
 
 "구매력 높은 고객층"</br>  
@@ -130,7 +130,7 @@
 ### 3-3 개인맞춤형 추천시스템
 
 <p>
-<img src = "https://user-images.githubusercontent.com/96767467/197762745-3deec220-f169-432a-9ded-933876359a43.PNG" align = 'center' width = 95% height = "53%">
+<img src = "https://user-images.githubusercontent.com/96767467/230791364-7c8c5d8c-58c3-494b-84fc-15e886bfe9b5.PNG" align = 'center' width = 95% height = "53%">
 </p>
 <p>
 최근에는 큰 틀에서의 추천 시스템은 효과를 별로 보지 못합니다.</br>
