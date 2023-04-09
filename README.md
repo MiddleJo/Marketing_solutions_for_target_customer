@@ -5,7 +5,7 @@
 ### 들어가기 전에
 - 발표영상: https://www.youtube.com/watch?v=WBpVgxsxNrA
 - 유통회사 L사의 구매 데이터를 분석하여 유의미한 솔루션을 도출하는 프로젝트입니다.  
-- 원본 데이터는 보얀 규약상 보여드릴 수 없고, 이에 따라 데이터 가공 과정 역시 구두설명만 드리게 되었습니다. 이 점 양해 부탁드립니다.  
+- 원본 데이터는 보안 규약상 보여드릴 수 없고, 이에 따라 데이터 가공 과정 역시 구두설명만 드리게 되었습니다. 이 점 양해 부탁드립니다.  
 - 자세한 내용은 [소스코드](https://github.com/MiddleJo/Marketing_solutions_for_target_customer/blob/main/Project1_SourceCode.ipynb) 혹은 ppt를 참고해 주시기 바라며 모바일은 최적화가 되어 있지 않습니다.  
 </br>
 
