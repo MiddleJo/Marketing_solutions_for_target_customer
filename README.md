@@ -155,7 +155,8 @@ Surprise api를 통해 구성하였으며, Baseline은 SVD알고리즘과 Knn �
 
 <img align="left" width="180" height="180"  src="https://user-images.githubusercontent.com/96767467/175776031-f03f973a-ad72-490f-af43-80ebac94bde0.png"/>
 
-  [팀장] 어정호 <br><br><br><br><br>
+  [팀장] 어정호 <br>
+  데이터 가공, 변수개발, ML<br><br><br><br>
 
 MAIL : fishup97@gmail.com <br>
 
@@ -165,7 +166,8 @@ Github : https://github.com/fish-ho <br>
 
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/96767467/175776083-7b96dcca-0357-4c22-a39e-366cfc84dd24.png"/>
 
-  [수석개발자] 조남현 <br><br><br><br><br>
+  [수석개발자] 조남현 <br>
+  변수개발, ML, 군집분석, 시각화, 추천시스템<br><br><br><br>
 
 MAIL : chonh0531@gmail.com <br>
 
@@ -175,7 +177,8 @@ Github : https://github.com/MiddleJo <br>
 
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/96767467/175776239-e4f7823a-4493-4673-8146-42b1845c3000.png" />
 
-  [수석디자인] 최지원 <br><br><br><br><br>
+  [수석디자인] 최지원 <br>
+  데이터 가공, ML, 군집별 솔루션, ppt제작<br><br><br><br>
 
 MAIL : plasticmelody@gmail.com <br>
 
@@ -185,7 +188,8 @@ Github : https://github.com/JadeWednesday <br>
 
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/96767467/175776334-d2e0b212-9fea-4164-8ddc-944608e7b3f5.png"/>
 
-  [데이터마이너] 김민성 <br><br><br><br><br>
+  [데이터마이너] 김민성 <br>
+  데이터 가공<br><br><br><br>
 
 MAIL : nycticebus0915@gmail.com <br>
 
@@ -195,7 +199,8 @@ Github : https://github.com/nycticebus0915 <br>
 
 <img align="left" width="180" height="180" src="https://user-images.githubusercontent.com/96767467/175776612-5502a307-31b3-4ded-a09e-5a11b2ad3c67.png" />
 
-  조경윤 <br><br><br><br><br>
+  조경윤 <br>
+  데이터 가공<br><br><br><br>
 
 MAIL : kkyxxn@gmail.com <br>
 
